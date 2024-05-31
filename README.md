@@ -12,7 +12,7 @@
 > ---
 <div align="center">
 
-![2](https://github.com/selterr/Catizen-AutoClicker/assets/90990446/d8905ae0-9599-4097-9b70-9fd9157ec568)
+![2sad](https://github.com/wzsxyjs/Catizen-Autobot/assets/72916610/88ddb91f-0cf3-429d-8703-675e64a2e533)
 
 
   
@@ -21,9 +21,7 @@
 
 
 
-
-https://github.com/selterr/Catizen-AutoClicker/assets/90990446/0d9d9b5f-149f-46bf-aad5-5014a7bdece0
-
+https://github.com/wzsxyjs/Catizen-Autobot/assets/72916610/10c32103-34c1-49b5-8931-6b7681de735c
 
  ---
  <div align="center">
