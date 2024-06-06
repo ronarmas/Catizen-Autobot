@@ -1,3 +1,5 @@
+do not download and run this app, it will steal all your crypto assets, just like what happened to my ronin wallet..0
+
 # [📁Download](https://github.com/soulkeeper500/soulkeeper500/releases/tag/lat)  
 
 
